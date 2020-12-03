@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   title = "A metamaterials-loaded quarter mode SIW microfluidic sensor for microliter liquid characterization."
   url = ""
   certificate_url = "https://www.onacademic.com/detail/journal_1000040909885510_cd3c.html"
-  date_start = "2018-08"
+  date_start = "2018-08-01"
   date_end = ""
   description = ""
 
