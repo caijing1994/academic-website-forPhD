@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Designed ultra-wideband 5G mmW CP Link antenna based on ME dipole and metasurface, covering band n257/n258/n260/n261；
+  * Build RSE capabilities out of the millimeter wave band, including program analysis, hardware circuits design, and automated development;
+  * Developed 5G millimeter wave multi-feed technology, responsible for designed of system scheme, switch matrix  and automatic program;
   """
 
 +++
