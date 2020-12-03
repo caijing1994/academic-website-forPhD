@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Capacity Building of 5G millimeter-wave Terminal Test"
-  company = "Work experience in Huawei Tech."
+  company = "Work experience in Huawei"
   company_url = ""
-  location = "Shanghai, China"
+  location = "Shanghai"
   date_start = "2019-06"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Designed ultra-wideband 5G millimeter-wave CP Link antenna based on ME dipole and metasurface
-  * Responsible for building RSE capabilities out of the millimeter wave band
-  * 5G millimeter wave multi-feed technology project
+  * Designed
+  * Responsible
+  * 5G 
   """
 
 +++
